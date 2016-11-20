@@ -1,0 +1,9 @@
+/*
+ * (c) Copyright 2016 STI技术小组
+ * http://www.stixu.com
+ */
+.app-header.hover {
+  color: blue;
+  border: 1px solid blue;
+  background-color: #EEE;
+}
